@@ -1,0 +1,1 @@
+<img src="assets/dotman_white.png" alt="dotman" width="45" height="45" align="center"/>
