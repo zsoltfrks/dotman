@@ -1,1 +1,3 @@
-<img src="assets/dotman_white.png" alt="dotman" width="45" height="45" align="center"/>
+<p align="center">
+  <img src="assets/dotman_white.png" alt="dotman" width="120" height="120" align="center"/>
+</p>
